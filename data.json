@@ -1,0 +1,154 @@
+{
+  "entries": [
+    {
+      "category": "Ideas & Fleeting Thoughts",
+      "text": "hi",
+      "tags": [],
+      "timestamp": "2026-05-02T10:02:40.235699"
+    },
+    {
+      "category": "Ideas & Fleeting Thoughts",
+      "text": "how are you",
+      "tags": [],
+      "timestamp": "2026-05-02T10:02:44.774352"
+    },
+    {
+      "category": "Ideas & Fleeting Thoughts",
+      "text": "pinterest is good",
+      "tags": [],
+      "timestamp": "2026-05-02T10:03:04.516928"
+    },
+    {
+      "category": "Quotes & Statements",
+      "text": "Would you keep my secret for me",
+      "tags": [
+        "#quote"
+      ],
+      "timestamp": "2026-05-02T10:05:02.274384"
+    },
+    {
+      "category": "Ideas & Fleeting Thoughts",
+      "text": "hi",
+      "tags": [],
+      "timestamp": "2026-05-02T10:06:49.311413"
+    },
+    {
+      "category": "\ud83d\udccb To-Do / Reminders",
+      "text": "help me",
+      "tags": [],
+      "timestamp": "2024-04-08T12:05:00"
+    },
+    {
+      "category": "\ud83d\udccb To-Do / Reminders",
+      "text": "help me",
+      "tags": [],
+      "timestamp": "2024-04-08T12:04:01"
+    },
+    {
+      "category": "\ud83d\udccb To-Do / Reminders",
+      "text": "remind me about the creator.com app I wanted",
+      "tags": [
+        "reminder",
+        "creator.com"
+      ],
+      "timestamp": "2024-04-08T12:06:00"
+    },
+    {
+      "category": "\ud83d\udccb To-Do / Reminders",
+      "text": "remind me about the creator.com app I wanted to",
+      "tags": [],
+      "timestamp": "2024-04-08T12:04:00"
+    },
+    {
+      "category": "\ud83d\udca1 Ideas & Fleeting Thoughts",
+      "text": "remind me about the creator.com app I wanted to build",
+      "tags": [
+        "app",
+        "creator.com"
+      ],
+      "timestamp": "2024-04-08T12:04:00"
+    },
+    {
+      "category": "\ud83d\udccb To-Do / Reminders",
+      "text": "remind me about the creator.com app I wanted to build",
+      "tags": [
+        "reminder",
+        "app",
+        "creator.com"
+      ],
+      "timestamp": "2024-02-20T14:30:00.000Z"
+    }
+  ],
+  "categories": [
+    "Ideas & Fleeting Thoughts",
+    "Quotes & Statements",
+    "\ud83d\udccb To-Do / Reminders",
+    "\ud83d\udca1 Ideas & Fleeting Thoughts"
+  ],
+  "conversation": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Logged \u2192 \ud83d\udca1 Ideas & Fleeting Thoughts \ud83d\udca1\nENTRY:{\"category\":\"Ideas & Fleeting Thoughts\",\"text\":\"hi\",\"tags\":[],\"timestamp\":\"2024-04-08T12:00:00\"}"
+    },
+    {
+      "role": "user",
+      "content": "how are you"
+    },
+    {
+      "role": "assistant",
+      "content": "Logged \u2192 \ud83d\udca1 Ideas & Fleeting Thoughts \ud83d\udca1\nENTRY:{\"category\":\"Ideas & Fleeting Thoughts\",\"text\":\"how are you\",\"tags\":[],\"timestamp\":\"2024-04-08T12:01:00\"}"
+    },
+    {
+      "role": "user",
+      "content": "pinterest is good"
+    },
+    {
+      "role": "assistant",
+      "content": "Logged \u2192 \ud83d\udca1 Ideas & Fleeting Thoughts \ud83d\udca1\nENTRY:{\"category\":\"Ideas & Fleeting Thoughts\",\"text\":\"pinterest is good\",\"tags\":[],\"timestamp\":\"2024-04-08T12:02:00\"}"
+    },
+    {
+      "role": "user",
+      "content": "Would you keep my secret for me"
+    },
+    {
+      "role": "assistant",
+      "content": "Logged \u2192 \ud83d\udde3\ufe0f Quotes & Statements #quote \ud83d\udde3\ufe0f\nENTRY:{\"category\":\"Quotes & Statements\",\"text\":\"Would you keep my secret for me\",\"tags\":[\"#quote\"],\"timestamp\":\"2024-04-08T12:03:00\"}"
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Logged \u2192 \ud83d\udca1 Ideas & Fleeting Thoughts \ud83d\udca1\nENTRY:{\"category\":\"Ideas & Fleeting Thoughts\",\"text\":\"hi\",\"tags\":[],\"timestamp\":\"2024-04-08T12:04:00\"}"
+    },
+    {
+      "role": "user",
+      "content": "help me l"
+    },
+    {
+      "role": "user",
+      "content": "help me"
+    },
+    {
+      "role": "user",
+      "content": "remind me about the creator.com app I wanted"
+    },
+    {
+      "role": "user",
+      "content": "remind me about the creator.com app I wanted to"
+    },
+    {
+      "role": "user",
+      "content": "remind me about the creator.com app I wanted to build"
+    },
+    {
+      "role": "user",
+      "content": "remind me about the creator.com app I wanted to build"
+    }
+  ]
+}
